@@ -1,5 +1,5 @@
-Summary:	A reader for the Microsoft Tape Format used by NT Backup.
-Summary(pl):	Czynik Ta턬 w Formacie Microsoft(R) u퓓wanym przez NT Backup.
+Summary:	A reader for the Microsoft Tape Format used by NT Backup
+Summary(pl):	Czynik Ta턬 w Formacie Microsoft(R) u퓓wanym przez NT Backup
 Name:		mtf
 Version:	0.2.1
 Release:	1
