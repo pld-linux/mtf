@@ -37,12 +37,10 @@ install -d $RPM_BUILD_ROOT%{_bindir}
 
 install mtf $RPM_BUILD_ROOT%{_bindir}
 
-gzip -9nf README
-
 %clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc *.gz
+%doc README
 %attr(755,root,root) %{_bindir}/mtf
