@@ -10,7 +10,7 @@ Source0:	http://layton-graphics.com/mtf/%{name}-%{version}.tgz
 # Source0-md5:	46f878e1c4cef44ecc7190e851217c2e
 URL:		http://layton-graphics.com/mtf/
 #Source1:	http://www.seagatesoftware.com/products/sm/library/whitepapers/downloads/mtfv1r18.zip (?)
-Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Simple reader for tapes recorded w/ MS Backup, version shiped w/ NT
