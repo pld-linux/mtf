@@ -22,7 +22,7 @@ http://www.seagatesoftware.com/products/sm/library/whitepapers/downloads/mtfv1r1
 %description -l pl
 Prosty czytnik do ta¶m nagranych przez MS Backup, w wersji
 dostarczanej z NT 4.0. Ten program bazuje na Microsoft Tape Format
-Specification wersja 1.00a, rewizja dokumnetu 1.8. Ten dokument jest
+Specification wersja 1.00a, rewizja dokumentu 1.8. Ten dokument jest
 dostêpny pod adresem:
 http://www.seagatesoftware.com/products/sm/library/whitepapers/downloads/mtfv1r18.zip
 
