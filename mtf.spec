@@ -5,7 +5,7 @@ Version:	0.2.1
 Release:	1
 License:	GPL
 Group:		Applications/Dictionaries
-Vendor:		D. Alan Stewart, Layton Graphics, Inc. (astewart@layton-graphics.com)
+Vendor:		D. Alan Stewart, Layton Graphics, Inc. <astewart@layton-graphics.com>
 Source0:	http://layton-graphics.com/mtf/%{name}-%{version}.tgz
 URL:		http://layton-graphics.com/mtf
 #Source1:    http://www.seagatesoftware.com/products/sm/library/whitepapers/downloads/mtfv1r18.zip (?)
