@@ -32,7 +32,8 @@ http://www.seagatesoftware.com/products/sm/library/whitepapers/downloads/mtfv1r1
 %build
 %{__make} \
 	CC="%{__cc}" \
-	CFLAGS="%{rpmcflags}"
+	CFLAGS="%{rpmcflags}" \
+	LDFLAGS="%{rpmldflags}"
 
 %install
 rm -rf $RPM_BUILD_ROOT
