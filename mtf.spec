@@ -1,5 +1,5 @@
 Summary:	A reader for the Microsoft Tape Format used by NT Backup
-Summary(pl):	Czynik Ta∂m w Formacie Microsoft(R) uøywanym przez NT Backup
+Summary(pl.UTF-8):   Czynik Ta≈õm w Formacie Microsoft(R) u≈ºywanym przez NT Backup
 Name:		mtf
 Version:	0.2.1
 Release:	1
@@ -19,11 +19,11 @@ Version 1.00a, Document Revision 1.8. This document is available at:
 http://www.seagatesoftware.com/products/sm/library/whitepapers/downloads/mtfv1r18.zip
 
 
-%description -l pl
-Prosty czytnik do ta∂m nagranych przez MS Backup, w wersji
+%description -l pl.UTF-8
+Prosty czytnik do ta≈õm nagranych przez MS Backup, w wersji
 dostarczanej z NT 4.0. Ten program bazuje na Microsoft Tape Format
 Specification wersja 1.00a, rewizja dokumentu 1.8. Ten dokument jest
-dostÍpny pod adresem:
+dostƒôpny pod adresem:
 http://www.seagatesoftware.com/products/sm/library/whitepapers/downloads/mtfv1r18.zip
 
 %prep
